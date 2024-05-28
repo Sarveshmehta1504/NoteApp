@@ -37,7 +37,7 @@ Welcome to the Note App repository! This app is developed using Jetpack Compose 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/NoteApp.git
+   git clone https://github.com/Sarveshmehta1504/NoteApp.git
    ```
 
 2. **Open the Project**:
@@ -54,7 +54,7 @@ We welcome contributions to improve this app! Here’s how you can help:
 1. **Fork the Repository**: Click on the 'Fork' button at the top right of this page.
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/YourUsername/NoteApp.git
+   git clone https://github.com/Sarveshmehta1504/NoteApp.git
    ```
 3. **Create a Branch**:
    ```bash
